@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/matteo-daddio/test-repo/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<i>[Test page](head-page.md) italic</i>
+<i>[Test page](head-page.md) italic text</i>
 
 ### Markdown
 
