@@ -2,6 +2,7 @@
 
 A test repository for studying purposes
 
+another row
 new test
 test row
 add a new row
