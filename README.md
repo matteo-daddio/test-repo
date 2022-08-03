@@ -6,6 +6,7 @@ noff line 1
 noff line 2
 
 some changes for test
+a new line of text
 
 a new row
 another row
