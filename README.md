@@ -4,6 +4,7 @@ A test repository for studying purposes
 
 noff line 1
 noff line 2
+a new line on top
 
 some changes for test
 a new line of text
@@ -17,4 +18,6 @@ test row on main
 new row
 another row
 new test row
+
+a new line at bottom
 
