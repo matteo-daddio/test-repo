@@ -5,10 +5,10 @@ A test repository for studying purposes
 noff line 1
 noff line 2
 a new line on top
-
+a new line for status test
 some changes for test
 a new line of text
-
+stashing row
 a new row
 another row
 new test
