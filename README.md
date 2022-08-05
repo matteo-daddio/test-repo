@@ -7,6 +7,7 @@ noff line 2
 a new line on top
 
 some changes for test
+some other changes
 
 a new line on top
 a new line for status test
