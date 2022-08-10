@@ -8,6 +8,8 @@ a new line on top
 
 some changes for test
 some other changes
+some new lines
+some new lines
 
 a new line on top
 a new line for status test
